@@ -1,7 +1,7 @@
 ---
-description: GitBook을 잘 써보자
+description: 생존 frontend! 🏊‍♀️🏊
 ---
 
-# 🚀 Hi, GitBook
+# 🚀 Hi, Frontend
 
-gitbook 도 잘쓰고 개발도 잘하고
+Frontend 세계에서 살아남기
